@@ -26,3 +26,4 @@
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [WebPageTest](https://www.webpagetest.org/)
 - [pagespeed](https://pagespeed.cz/)
+- [CrUX Report](https://developers.google.com/web/tools/chrome-user-experience-report/)
