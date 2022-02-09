@@ -27,3 +27,10 @@
 - [WebPageTest](https://www.webpagetest.org/)
 - [pagespeed](https://pagespeed.cz/)
 - [CrUX Report](https://developers.google.com/web/tools/chrome-user-experience-report/)
+
+# Proxies
+
+- [mitmproxy](https://mitmproxy.org/)
+- [BurpSuite](https://portswigger.net/burp)
+- [ZAP](https://www.zaproxy.org/)
+- [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
