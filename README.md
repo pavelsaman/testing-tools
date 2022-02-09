@@ -16,3 +16,13 @@
 - Lighhouse a11y check
 - [WebAim Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [W3C Markup Validation](https://validator.w3.org/)
+
+# Web Performance
+
+- Lighthouse
+- DevTools in browsers
+- Canarytrace
+- [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma?hl=en)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
+- [WebPageTest](https://www.webpagetest.org/)
+- [pagespeed](https://pagespeed.cz/)
