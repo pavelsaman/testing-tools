@@ -38,3 +38,5 @@
 ## Mobile
 
 - [BrowserStack](https://www.browserstack.com/)
+- [CrossBrowserTesting](https://crossbrowsertesting.com/)
+- [mobiReady](https://ready.mobi/)
