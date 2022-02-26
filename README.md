@@ -6,6 +6,7 @@
   - [JAWS](https://www.freedomscientific.com/products/software/jaws/)
   - VoiceOver
 - [Accessibility Insights For Web](https://accessibilityinsights.io/en/)
+- [axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
 - [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en)
 - [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 - [Web Developer](https://chrispederick.com/work/web-developer/)
