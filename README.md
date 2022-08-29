@@ -36,6 +36,7 @@
 - [BurpSuite](https://portswigger.net/burp)
 - [ZAP](https://www.zaproxy.org/)
 - [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+- [Postman](https://learning.postman.com/docs/sending-requests/capturing-request-data/capture-overview/)
 
 ## Mobile
 
@@ -46,3 +47,22 @@
 ## Network
 
 - vnstat
+- nethogs
+- netdiscover
+- nmap
+- nping
+- httprobe
+- Wireshark
+- ss
+- dig
+- drill
+- nslookup
+- whois
+- traceroute
+- tracepath
+
+## HTTP
+
+- Postman
+- curl
+- Browser DevTools
