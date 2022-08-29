@@ -65,4 +65,4 @@
 
 - Postman
 - curl
-- Browser DevTools
+- DevTools in browsers
